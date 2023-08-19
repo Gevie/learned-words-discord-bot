@@ -17,5 +17,5 @@ async def on_ready():
     print(f'Logged in as {bot.user.name}')
 
 
-bot.load_extension('bot.commands')
+bot.load_extension('src.bot.command')
 bot.run(DISCORD_TOKEN)

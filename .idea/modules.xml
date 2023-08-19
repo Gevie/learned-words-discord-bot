@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AnnounceTwitchBot/.idea/AnnounceTwitchBot.iml" filepath="$USER_HOME$/PycharmProjects/AnnounceTwitchBot/.idea/AnnounceTwitchBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learned-words-discord-bot.iml" filepath="$PROJECT_DIR$/.idea/learned-words-discord-bot.iml" />
     </modules>
   </component>
